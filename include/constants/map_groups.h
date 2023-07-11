@@ -591,6 +591,28 @@
 // gMapGroup_IndoorRoute124
 #define MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE (0 | (33 << 8))
 
-#define MAP_GROUPS_COUNT 34
+// gMapGroup_CharlotTownAndRoutes
+#define MAP_TEST1        (0 | (34 << 8))
+#define MAP_CHARLOT_CITY (1 | (34 << 8))
+#define MAP_ROUTE201     (2 | (34 << 8))
+#define MAP_ROUTE203     (3 | (34 << 8))
+#define MAP_ROUTE204     (4 | (34 << 8))
+
+// gMapGroup_CharlotIndoor
+#define MAP_LABO_PROF (0 | (35 << 8))
+#define MAP_MAISON_1  (1 | (35 << 8))
+#define MAP_MAISON_2  (2 | (35 << 8))
+
+// gMapGroup_Statis
+#define MAP_STATIS_TOWN                   (0 | (36 << 8))
+#define MAP_STATIS_POKE_SHOP              (1 | (36 << 8))
+#define MAP_POKE_CENTER                   (2 | (36 << 8))
+#define MAP_STATIS_POKE_CENTER_UP_STAAIRS (3 | (36 << 8))
+#define MAP_MAISON_STATIS1                (4 | (36 << 8))
+#define MAP_MAISON_STATIS1UP_STRAIRS      (5 | (36 << 8))
+#define MAP_MAISON_STATIS2                (6 | (36 << 8))
+#define MAP_MAISON_STATIS2UP_STRAIRS      (7 | (36 << 8))
+
+#define MAP_GROUPS_COUNT 37
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H

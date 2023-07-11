@@ -12,6 +12,176 @@
       "blockdata_filepath": "data/layouts/PetalburgCity/map.bin"
     },
     {
+      "id": "LAYOUT_TEST1",
+      "name": "Test1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Test1/border.bin",
+      "blockdata_filepath": "data/layouts/Test1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP1",
+      "name": "CharlotCity_Layout",
+      "width": 26,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CharlotCity/border.bin",
+      "blockdata_filepath": "data/layouts/CharlotCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_LABO_PROF",
+      "name": "LaboProf_Layout",
+      "width": 13,
+      "height": 13,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Lab",
+      "border_filepath": "data/layouts/LaboProf/border.bin",
+      "blockdata_filepath": "data/layouts/LaboProf/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAISON_1",
+      "name": "Maison_1_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Maison_1/border.bin",
+      "blockdata_filepath": "data/layouts/Maison_1/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAISON_2",
+      "name": "Maison_2_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Maison_2/border.bin",
+      "blockdata_filepath": "data/layouts/Maison_2/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP2",
+      "name": "Route201_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route201/border.bin",
+      "blockdata_filepath": "data/layouts/Route201/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP3",
+      "name": "StatisTown_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/StatisTown/border.bin",
+      "blockdata_filepath": "data/layouts/StatisTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_STATIS_POKE_SHOP",
+      "name": "Statis_PokeShop_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/Statis_PokeShop/border.bin",
+      "blockdata_filepath": "data/layouts/Statis_PokeShop/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKE_SHOP",
+      "name": "PokeShop_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/PokeShop/border.bin",
+      "blockdata_filepath": "data/layouts/PokeShop/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKE_CENTER",
+      "name": "PokeCenter_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/PokeCenter/border.bin",
+      "blockdata_filepath": "data/layouts/PokeCenter/map.bin"
+    },
+    {
+      "id": "LAYOUT_STATIS_POKE_CENTER_UP_STAAIRS",
+      "name": "Statis_PokeCenter_UpStaairs_Layout",
+      "width": 14,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/Statis_PokeCenter_UpStaairs/border.bin",
+      "blockdata_filepath": "data/layouts/Statis_PokeCenter_UpStaairs/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAISON_STATIS1",
+      "name": "MaisonStatis1_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/MaisonStatis1/border.bin",
+      "blockdata_filepath": "data/layouts/MaisonStatis1/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAISON_STATIS1UP_STRAIRS",
+      "name": "MaisonStatis1UpStrairs_Layout",
+      "width": 9,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/MaisonStatis1UpStrairs/border.bin",
+      "blockdata_filepath": "data/layouts/MaisonStatis1UpStrairs/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAISON_STATIS2",
+      "name": "MaisonStatis2_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/MaisonStatis2/border.bin",
+      "blockdata_filepath": "data/layouts/MaisonStatis2/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAISON_STATIS2UP_STRAIRS",
+      "name": "MaisonStatis2UpStrairs_Layout",
+      "width": 9,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/MaisonStatis2UpStrairs/border.bin",
+      "blockdata_filepath": "data/layouts/MaisonStatis2UpStrairs/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP4",
+      "name": "Route203_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route203/border.bin",
+      "blockdata_filepath": "data/layouts/Route203/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP5",
+      "name": "Route204_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route204/border.bin",
+      "blockdata_filepath": "data/layouts/Route204/map.bin"
+    },
+    {
       "id": "LAYOUT_SLATEPORT_CITY",
       "name": "SlateportCity_Layout",
       "width": 40,
